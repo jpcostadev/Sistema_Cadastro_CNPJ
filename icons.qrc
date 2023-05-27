@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="icons">
+    <file>icons/logo4.png</file>
     <file>icons/atualizar.png</file>
     <file>icons/email.png</file>
     <file>icons/fav.png</file>
